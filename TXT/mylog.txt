@@ -2,7 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCodes: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00  05 L00 General, etc.
-ZCZC W00  10 L01 SCELE/Discord related
-ZCZC W00  07 L03 GitHub related
-ZCZC W00  16 L04 GitHub Pages related
+ZCZC W00  05 L00 Read Mr. Samik posts on general SCELE page. 
+ZCZC W00  05 L01 Join OS Course on SCELE, read announcemnent.
+ZCZC W00  07 L03 Create repository and 
+ZCZC W00  10 L04 Setting up os212 github pages
+ZCZC W00  15 L04 clone cbkadal gh-page template and read the code 
+ZCZC W00  15 L04 customize template for personal use, change name, photo, description
+ZCZC W00  15 L04 customize template for personal use, change name, photo, description
+ZCZC W00  20 L32 GSGS and study on youtube to integrate Google Analytics.
+ZCZC W00  20 L04 update UA number to source code.
+
