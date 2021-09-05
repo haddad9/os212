@@ -1,57 +1,35 @@
 ---
 layout: "layout"
-permalink: /TIPS/
+permalink: /ASSIGNMENT REPORT/
 ---
 
-# TIPS
+# ASSIGNMENT REPORT
+### this page tracks my assignment progress weekly
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+## Week 00
+- [x] Create GitHub Public Repository ”os212”.  
+- [x] Start Week 00 Log.
+- [x] Create your ”os212” GitHub Page.
+- [x] Course Registration on https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=30285.
+- [x] Reading Assignment
+    - [x] What defines an Operating System? https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+    - [x](OSC10) Silberschatz et. al.: Operating System Concepts, 10th Edition, 2018, https://www.os-book.com/OS10/, chapter 1, 2, 18.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+    - [ ] GNU/Linux Tutorial https://osp4diss.vlsm.org/Welcome2GNULinux.html 
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+    - [ ] More GNU/Linux https://osp4diss.vlsm.org/osp-115.html
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+    - [ ] Operating Systems: Visual Metaphor (Udacity) https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
 
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
 
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
-
+## Week 01
+- [ ] VirtualBox Guest Preparation
+- [ ] Importing (OVA) or Installing (ISO)?
+- [ ] Do the ATM way: GSGS and Read!
+- [ ] Dress Up Your Virtual Guest
+- [ ] SSH Keys and Git Cloning
+- [ ] Dress Up Your GitHub Page
+- [ ] Update mylog.txt
+- [ ] More awk, bash, regex, sed
