@@ -11,4 +11,7 @@ ZCZC W00  15 L04 customize template for personal use, change name, photo, descri
 ZCZC W00  15 L04 customize template for personal use, change name, photo, description
 ZCZC W00  20 L32 GSGS and study on youtube to integrate Google Analytics.
 ZCZC W00  20 L04 update UA number to source code.
-
+ZCZC W00  100 L02 Operating System syncronus class
+ZCZC W00  63 L10 Reading Operating System Concepts 10th
+ZCZC W00  45 L05 quiz 1 preparation
+ZCZC W00  90 L80 WATCHING MONEY HEIST !
