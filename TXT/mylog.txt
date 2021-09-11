@@ -15,7 +15,9 @@ ZCZC W00  63 L10 Reading Operating System Concepts 10th
 ZCZC W00  45 L05 quiz 1 preparation
 ZCZC W00  90 L80 WATCHING MONEY HEIST !
 ZCZC W01  100 L02 OS async class
-ZCZC W01  03 L04 add ssh key
+ZCZC W01  06 L28 create ssh key and add to github account
 ZCZC W01  20 L11 import debian ova
 ZCZC W01  78 L11 reading assginments
-ZCZC W01  02 L00 update mylog.txt
+ZCZC W01  52 L24 study more abput essential regex
+ZCZC W01  05 L28 setting putty
+ZCZC W01  03 L00 update mylog.txt
