@@ -15,6 +15,16 @@ Markdown is some powerful yet simple scripting. this website is an open-source r
 3. [REGEX but VISUALIZED](https://www.debuggex.com)<br>
  I have a difficulty to memorize regex or even visualize it on my head. This website will help you to visualize any regex pattern that you wrote.  
 
-4. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
+4. [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html) <br>
+this website provide you Linux/Unix command line cheat sheet, including:
+-Basic Linux commands
+-File Permission commands
+-Environment Variables command
+-User management commands of linux
+-Networking command
+-Process command
+-VI Editing Commands
+
+5. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
 Another links will be updated as soon as we will enjoy this journey on the next couple weeks, GREETS ! 
 
