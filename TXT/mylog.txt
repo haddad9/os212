@@ -21,3 +21,13 @@ ZCZC W01  78 L11 reading assginments
 ZCZC W01  52 L24 study more abput essential regex
 ZCZC W01  05 L28 setting putty
 ZCZC W01  03 L00 update mylog.txt
+ZCZC W02  100 L02 OS synchronus class with Mr.Rahmat
+ZCZC W02  02 L14 generate keypair GnuPG
+ZCZC W02  01 L15 List all GnuPG Key Pair
+ZCZC W02  05 L16 import ospubkey.txt from OS fasilkom github
+ZCZC W02  02 L18 export generated pub key and save into TXT/mypubkey.txt
+ZCZC W02  40 L12 run c-language demos from DEMOS
+ZCZC W02  142 L13 Watched Cyber Security vids
+ZCZC W02  21 L20 Create myrank.txt and rate my peer's links 
+ZCZC W02  12 L09 create myscript.sh to automate key sign  
+ZCZC W02  12 L09 Update mylog.txt
