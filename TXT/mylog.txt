@@ -31,3 +31,15 @@ ZCZC W02  142 L13 Watched Cyber Security vids
 ZCZC W02  21 L20 Create myrank.txt and rate my peer's links 
 ZCZC W02  12 L09 create myscript.sh to automate key sign  
 ZCZC W02  12 L09 Update mylog.txt
+ZCZC W03  01 L14 Check if ".bash_aliases" is up to date
+ZCZC W03  13 L15 Create an extra virtual disk base with size on last digit NPM+4  
+ZCZC W03  12 L16 Update links.md
+ZCZC W02  12 L09 Update myscript.sh to automate key sign
+ZCZC W03  20 L17 Rate peer's links and update myrank.txt
+ZCZC W03  70 L11 reading assignments chapter 13,14,15
+ZCZC W03  100 L02 OS async class
+ZCZC W03  17 L12 try demos for week3
+ZCZC W03  42 L13 try midtest problems 
+ZCZC W03  140 L09 explore FUSE documentations on https://www.kernel.org/doc/html/latest/filesystems/fuse.html
+ZCZC W03   4 L19 Submit Week03 assignments
+ZCZC W03  15 L18 Update mylog.txt
