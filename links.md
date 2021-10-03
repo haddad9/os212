@@ -28,6 +28,10 @@ this website provide you Linux/Unix command line cheat sheet, including:
 FUSE is a userspace filesystem framework. It consists of a kernel module (fuse.ko), a userspace library (libfuse.*) and a mount utility (fusermount).
 This link is the docs for FUSE 101. it would give you usefull information about FUSE, and most importantly, it is *searchable*.
 
-6. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
+6. [LINUX PLAYGROUND](https://www.onlinegdb.com/online_bash_shell)
+Playing with our linux shell sometimes causes disaster. this website provide us to try linux shell so we can execute and run bash scripting safely
+
+
+7. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
 Another links will be updated as soon as we will enjoy this journey on the next couple weeks, GREETS ! 
 
