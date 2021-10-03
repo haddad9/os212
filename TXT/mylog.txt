@@ -43,3 +43,11 @@ ZCZC W03  42 L13 try midtest problems
 ZCZC W03  140 L09 explore FUSE documentations on https://www.kernel.org/doc/html/latest/filesystems/fuse.html
 ZCZC W03   4 L19 Submit Week03 assignments
 ZCZC W03  15 L18 Update mylog.txt
+ZCZC W04  100 L02 OS async class
+ZCZC W04  20 L14 Installing Package List 2 (TLPI)
+ZCZC W04  15 L15 Fetch and Extract File ”WEEK04.tar.bz2.asc”
+ZCZC W04  27 L16 Update links.md 
+ZCZC W04  30 L17 Review my peers links.md and update myrank.txt
+ZCZC W04  20 L18 Update mylog.txt 
+ZCZC W04  03 L19 Submitting week04 assignments
+ZCZC W04  90 L11 Reading assignments, read chapter 9 OSC10
