@@ -11,7 +11,13 @@ Reading every chapters on the assignments would make us understand the foundatio
 2. [Try Demos.](#)
 The demos file included with various problems we could explore to understand the concept of os programming
 
-3. [Try Prev Midterm Problems]()
-If you see the previous midterm problems, you would agree with me that it seems too hard :-(. But once we explore more and try to solve with gsgs and asking asdos/dosen, our life would be easier
+3. [Try Prev Midterm Problems](#)
+If you see the previous midterm problems, you would agree with me that it seems>
+
+4. [CLASS ATTENNDING](#)
+DO, NOT, EVER, SKIP THE CLASS. read that again. this is so important for you to understand various confussion subject of the OS class. take the advantage of attending ecery single week  of your class and ask everything you dont understand about the subject(of course you've read the subject and not gsgs-able question ).
+
+
+
 
 [ANOTHER UPCOMING TIPS WOULD BE UPDATED SOON!](#)

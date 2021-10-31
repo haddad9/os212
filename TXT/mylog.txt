@@ -60,5 +60,14 @@ ZCZC W05  82 L11 Reading assignments, read chapter 10 OSC10
 ZCZC W05  32 L12 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
 ZCZC W05  52 L13 Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf)
 ZCZC W05  22 L14 doing assignments week05, fetch,extract, create folder w05 etc
-
+ZCZC W06  100 L02 OS async class
+ZCZC W06  17 L15 Update links.md
+ZCZC W06  71 L11 Reading assignments, read chapter 3,4 OSC10
+ZCZC W06  34 L12 Try Demos in  https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/
+ZCZC W06  59 L13 Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf)
+ZCZC W06  42 L14 doing assignments week06: fetch, extract, run sript, observe, and copying the result
+ZCZC W06  33 L17 Review my peers links.md and update myrank.txt
+ZCZC W06  05 L18 Update tips 
+ZCZC W06  22 L18 Update mylog.txt
+ZCZC W06  02 L19 Submitting week05 assignments
 
