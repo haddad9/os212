@@ -17,6 +17,9 @@ If you see the previous midterm problems, you would agree with me that it seems 
 4. [CLASS ATTENNDING](#)
 DO, NOT, EVER, SKIP THE CLASS. read that again. this is so important for you to understand various confussing subject of the OS class. take the advantage of attending ecery single week  of your class and ask everything you dont understand about the subject(of course you've read the subject and not gsgs-able question ).
 
+4. [Scele Forum Quiz](#)
+Maximize your weekly score by reply to Mr.RMS questions on scele forum about OS 
+
 
 
 

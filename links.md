@@ -29,12 +29,14 @@ FUSE is a userspace filesystem framework. It consists of a kernel module (fuse.k
 This link is the docs for FUSE 101. it would give you usefull information about FUSE, and most importantly, it is *searchable*.
 
 6. [LINUX PLAYGROUND](https://www.onlinegdb.com/online_bash_shell)
-Playing with our linux shell sometimes causes disaster. this website provide us>
+Playing with our linux shell sometimes causes disaster. this website provide us online linux server to play with
 
 7. [UNDERSTANDING FORK](https://www.geeksforgeeks.org/fork-system-call/)
 for me, understanding how the fork() needs times when we dont have a good resources. here is some good explanation from geeksforgeeks for better understanding(and preapred for test, of course :-'D )
 
+8. [Process Synchronization](https://www.guru99.com/process-synchronization.html)<br>
+This web help us to review some important points to understand about Process Synchronization, with diagram provided for better understanding.
 
-8. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
+9. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
 Another links will be updated as soon as we will enjoy this journey on the next couple weeks, GREETS ! 
 
