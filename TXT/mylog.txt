@@ -80,3 +80,14 @@ ZCZC W07  44 L17 Review my peers links.md and update myrank.txt
 ZCZC W07  06 L16 Update tips
 ZCZC W07  22 L18 Update mylog.txt
 ZCZC W07  02 L19 Submitting week05 assignments
+ZCZC W08  100 L02 OS sync class
+ZCZC W08  5 L16 Update links.md
+ZCZC W08  51 L11 Reading assignments, read OSC10 chapter 5
+ZCZC W08  20 L12 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/
+ZCZC W08  58 L13 Try Previous FinalTerm Problems (https://rms46.vlsm.org/2/203.pdf)
+ZCZC W08  50 L14 doing assignments week08:  Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08  100 L15 Linux From Scratch 11.0 Chapter 05
+ZCZC W08  44 L18 Review my peers links.md and update myrank.txt
+ZCZC W08  06 L17 Update tips
+ZCZC W08  22 L19 Update mylog.txt
+ZCZC W08  05 L20 Submitting week08 assignments

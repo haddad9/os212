@@ -17,10 +17,14 @@ If you see the previous midterm problems, you would agree with me that it seems 
 4. [CLASS ATTENNDING](#)
 DO, NOT, EVER, SKIP THE CLASS. read that again. this is so important for you to understand various confussing subject of the OS class. take the advantage of attending ecery single week  of your class and ask everything you dont understand about the subject(of course you've read the subject and not gsgs-able question ).
 
-4. [Scele Forum Quiz](#)
+5. [Scele Forum Quiz](#)
 Maximize your weekly score by reply to Mr.RMS questions on scele forum about OS 
 
-
+6. [Do not ever think you can speedrun LFS](#)
+Once the LFS-chapters approcahes,I  would like to inform you of the following:
+	1. LFS is not something you can speedrun. (even if you have an AMD Threadripper or Intel Core-X)
+	2. I recommend you to read the LFS 11 Book [https://www.linuxfromscratch.org/lfs/view/11.0/], as debugging without understanding it is hard.
+	3. Please, pay attention. LFS is not hard as long as you read the instructions carefully!
 
 
 [ANOTHER UPCOMING TIPS WOULD BE UPDATED SOON!](#)

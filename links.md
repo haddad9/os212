@@ -37,6 +37,14 @@ for me, understanding how the fork() needs times when we dont have a good resour
 8. [Process Synchronization](https://www.guru99.com/process-synchronization.html)<br>
 This web help us to review some important points to understand about Process Synchronization, with diagram provided for better understanding.
 
-9. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
+9. [Guide to LFS chapter 5](https://www.youtube.com/watch?v=6Mw4l0khpCU)<br>
+compiling LFS would be a lot of works if we miss something. this video provide the walkthrough for LFS cahpter 5
+
+
+10. [LFS Manual Book](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+this book have a complete guid for us to compile your linux from open source 
+
+
+11. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
 Another links will be updated as soon as we will enjoy this journey on the next couple weeks, GREETS ! 
 
