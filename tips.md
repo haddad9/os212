@@ -26,5 +26,8 @@ Once the LFS-chapters approcahes,I  would like to inform you of the following:
 	2. I recommend you to read the LFS 11 Book [https://www.linuxfromscratch.org/lfs/view/11.0/], as debugging without understanding it is hard.
 	3. Please, pay attention. LFS is not hard as long as you read the instructions carefully!
 
+7. [Do not ever think you can speedrun LFS](#)
+Maximize your score at the very beginning stage so you can quit early at the last semester.
+
 
 [ANOTHER UPCOMING TIPS WOULD BE UPDATED SOON!](#)
