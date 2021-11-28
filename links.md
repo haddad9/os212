@@ -44,7 +44,9 @@ compiling LFS would be a lot of works if we miss something. this video provide t
 10. [LFS Manual Book](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 this book have a complete guid for us to compile your linux from open source 
 
+11. [Principles of I/O Software](https://gcallah.github.io/OperatingSystems/IOSoftware.html)<br>
+explaining basic concept about I/O softwares
 
-11. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
+12. [SOON !](https://translate.google.com/?hl=id&sl=ja&tl=id&text=soon&op=translate)<br>
 Another links will be updated as soon as we will enjoy this journey on the next couple weeks, GREETS ! 
 

@@ -29,5 +29,7 @@ Once the LFS-chapters approcahes,I  would like to inform you of the following:
 7. [Do not ever think you can speedrun LFS](#)
 Maximize your score at the very beginning stage so you can quit early at the last semester.
 
+8. [Maximize your score at the very end](#)
+Final score will be graded grom highest 9 weeks score, so if you found your score not well enough, pursue it at the last week.
 
 [ANOTHER UPCOMING TIPS WOULD BE UPDATED SOON!](#)
